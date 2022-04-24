@@ -30,3 +30,6 @@ SetWorkingDir %A_ScriptDir%
 >!3::send, ³
 
 >!e::send, €
+
+>!,::send, ≤
+>!.::send, ≥
