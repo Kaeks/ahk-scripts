@@ -13,6 +13,9 @@ SetWorkingDir %A_ScriptDir%
 >!+u::send, Ü
 >!+s::send, ẞ
 
+>!n::send, ñ
+>!+n::send, Ñ
+
 >!p::send, π
 >!t::send, ™
 >!c::send, ©
